@@ -6,6 +6,7 @@ const timerDays = document.querySelector('[data-days]');
 const timerHours = document.querySelector('[data-hours]');
 const timerMin = document.querySelector('[data-minutes]');
 const timerSec = document.querySelector('[data-seconds]');
+
 const inputEl = document.querySelector('#datetime-picker');
 const startEl = document.querySelector('[data-start]');
 
